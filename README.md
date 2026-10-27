@@ -1,8 +1,6 @@
-# Ziki Garden
-Whimsical Ziki dashboard. Next.js 14 (App Router), no extra deps.
+# Ziki Dashboard
 
     npm install
     npm run dev
 
-Deploy: push to GitHub, import the repo on vercel.com, and click Deploy. No config needed.
-Edit the numbers at the top of `app/page.js`.
+Deploy: push to GitHub, import on vercel.com, click Deploy.
